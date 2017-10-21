@@ -17,7 +17,7 @@ import javafx.fxml.Initializable;
 public class FXMLMenuAwalController implements Initializable {
 
     /**
-     * initialises the controller class.
+     * Initializes the controller class.
      * @param url
      * @param rb
      */
